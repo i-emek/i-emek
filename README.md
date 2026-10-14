@@ -8,6 +8,17 @@ With a background in software and data engineering, I currently own the data pla
 
 ---
 
+## 👨‍💻 Some of what I work on currently
+
+- ⚡ **Real-time data pipelines** with Apache Beam and Google Dataflow
+- 📨 **Self-hosted Kafka clusters** and their supporting ecosystem
+- 🔄 **CDC pipelines** with Debezium across MySQL and MongoDB
+- ☁️ **Cloud infrastructure** on Google Cloud and Kubernetes, provisioned with Terraform and Ansible
+- 📊 **Observability and operational tooling** for monitoring, alerting, and everyday workflows
+- 🤖 **AI agents and automation**, including LLM-assisted data tooling
+
+---
+
 ## 🏛️ Featured project: Open Barlaman
 
 I'm building **[Open Barlaman](https://www.openbarlaman.com)**, a platform that makes Morocco’s parliamentary activity easier to explore and understand.
@@ -17,17 +28,6 @@ It brings together information about parliamentary representatives, their questi
 The project combines data ingestion and reconciliation with a **FastAPI, PostgreSQL, and Next.js** stack.
 
 **[Explore the platform](https://www.openbarlaman.com)** 
-
----
-
-## 👨‍💻 What I work on
-
-- ⚡ **Real-time data pipelines** with Apache Beam and Google Dataflow
-- 📨 **Self-hosted Kafka clusters** and their supporting ecosystem
-- 🔄 **CDC pipelines** with Debezium across MySQL and MongoDB
-- ☁️ **Cloud infrastructure** on Google Cloud and Kubernetes, provisioned with Terraform and Ansible
-- 📊 **Observability and operational tooling** for monitoring, alerting, and everyday workflows
-- 🤖 **AI agents and automation**, including LLM-assisted data tooling
 
 ---
 
